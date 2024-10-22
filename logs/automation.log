@@ -1,0 +1,93 @@
+2024-10-22 20:57:35,466 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-newWorkspace\P006BuyMovies\grouping.xml"
+2024-10-22 20:57:36,012 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] 524538176
+2024-10-22 20:57:36,013 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:57:36,017 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:57:36,017 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:57:36,017 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:57:36,027 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.close()[pri:0, instance:null] 505890467
+2024-10-22 20:57:36,028 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:57:36,028 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:57:36,028 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:57:36,028 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:57:36,043 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] 524538176
+2024-10-22 20:57:36,043 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:57:36,044 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:57:36,044 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:57:36,044 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:57:36,047 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.close()[pri:0, instance:null] 505890467
+2024-10-22 20:57:36,047 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:57:36,047 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:57:36,047 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:57:36,047 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:57:36,058 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC002MyAccout.MyAccountInfo()[pri:0, instance:TestCases.TC002MyAccout@53d1b9b3] -1324412028
+2024-10-22 20:57:36,058 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:57:36,059 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:57:36,059 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:57:36,059 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:57:36,083 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-newWorkspace\P006BuyMovies\grouping.xml
+
+2024-10-22 20:58:39,354 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-newWorkspace\P006BuyMovies\grouping.xml"
+2024-10-22 20:58:39,840 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] 524538176
+2024-10-22 20:58:39,842 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:58:39,846 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:58:39,846 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:58:39,848 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:58:39,854 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.close()[pri:0, instance:null] 505890467
+2024-10-22 20:58:39,854 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:58:39,855 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:58:39,855 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:58:39,856 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:58:39,875 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] 524538176
+2024-10-22 20:58:39,875 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:58:39,875 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:58:39,875 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:58:39,875 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:58:39,878 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.close()[pri:0, instance:null] 505890467
+2024-10-22 20:58:39,879 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:58:39,880 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:58:39,880 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:58:39,880 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:58:39,890 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001AccountRegister.AccountRegister()[pri:0, instance:TestCases.TC001AccountRegister@7c209437] -1349002819
+2024-10-22 20:58:39,891 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 20:58:39,891 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 20:58:39,891 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 20:58:39,891 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 20:58:39,911 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-newWorkspace\P006BuyMovies\grouping.xml
+
+2024-10-22 21:16:33,134 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-newWorkspace\P006BuyMovies\master.xml"
+2024-10-22 21:16:33,563 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] 524538176
+2024-10-22 21:16:33,564 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 21:16:33,568 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 21:16:33,568 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 21:16:33,569 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 21:16:33,572 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.close()[pri:0, instance:null] 505890467
+2024-10-22 21:16:33,573 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 21:16:33,573 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 21:16:33,573 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 21:16:33,573 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 21:16:33,584 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC002MyAccout.MyAccountInfo()[pri:0, instance:TestCases.TC002MyAccout@26425897] -2088783256
+2024-10-22 21:16:33,584 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 21:16:33,585 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 21:16:33,585 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 21:16:33,585 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 21:16:33,606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-newWorkspace\P006BuyMovies\master.xml
+
+2024-10-22 21:22:27,402 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-newWorkspace\P006BuyMovies\master.xml"
+2024-10-22 21:22:27,815 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] 524538176
+2024-10-22 21:22:27,816 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 21:22:27,821 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 21:22:27,821 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 21:22:27,821 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 21:22:27,825 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.close()[pri:0, instance:null] 505890467
+2024-10-22 21:22:27,825 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 21:22:27,825 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 21:22:27,825 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 21:22:27,825 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-10-22 21:22:27,839 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC002MyAccout.MyAccountInfo()[pri:0, instance:TestCases.TC002MyAccout@5f7b97da] -1128730197
+2024-10-22 21:22:27,840 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-10-22 21:22:27,841 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-10-22 21:22:27,841 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-10-22 21:22:27,841 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
